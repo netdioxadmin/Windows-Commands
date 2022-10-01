@@ -49,3 +49,11 @@ To check DNS entries ( for TXT entries)
 To Display MAC Address
 
 ``` getmac /v ```
+
+To check repport on Power
+
+``` powercfg.exe /energy ```
+
+To check repport on battery ( will get an output of file path in html open in browser to see full report)
+
+``` powercfg.exe /batteryreport```
