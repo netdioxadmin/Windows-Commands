@@ -44,7 +44,7 @@ Fors NS lookup up form google dns server
 
 To check DNS entries ( for TXT entries) 
 
-`` nslookup.exe -type=txt google.com```
+``` nslookup.exe -type=txt google.com```
 
 To Display MAC Address
 
